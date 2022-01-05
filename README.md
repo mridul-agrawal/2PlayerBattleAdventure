@@ -6,4 +6,4 @@ If your warrior dies, you lose the game.
 
 I have used various OOPS concepts in C++ like Inheritance, Abstract Class, Virtual Methods, Function Overriding, Dynamic Memory Allocation, Pointers, etc. You can click on the Replit Link below to play the game or to chack out the code.
 
-Game Link: 
+Game Link: https://replit.com/@mridulagrawal/2PlayerBattleAdventure#main.cpp
